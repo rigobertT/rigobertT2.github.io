@@ -43,7 +43,7 @@ h2{
     padding: 10px;
 }
 .box{
-    flex: 0 1 180px; /*  No stretching: */
+    flex: 0 1 120px; /*  No stretching: */
 }
 .box img{
     width: 100%;
